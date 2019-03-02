@@ -1,0 +1,1 @@
+El usuario y contraseña para iniciar sesión en el servidor tomcat es "root" para los dos apartados
