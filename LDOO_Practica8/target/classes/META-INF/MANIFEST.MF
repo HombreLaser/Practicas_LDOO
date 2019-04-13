@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 10.0.2
+Implementation-Title: Practica8
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: fcfm.doo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Practica8
+Created-By: Maven Integration for Eclipse
+
